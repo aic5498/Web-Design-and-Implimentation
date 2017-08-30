@@ -1,0 +1,5 @@
+Link to directory
+https://people.rit.edu/aic5498/230/error/
+
+Link to nonexsistant page
+https://people.rit.edu/aic5498/230/error/go
